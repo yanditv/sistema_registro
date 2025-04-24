@@ -9,5 +9,5 @@ package modelo;
  * @author YANDI
  */
 public class Categoria {
-    
+    private int id;
 }
