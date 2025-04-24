@@ -10,4 +10,6 @@ package modelo;
  */
 public class Categoria {
     private int id;
+    public Categoria(){
+    }
 }
